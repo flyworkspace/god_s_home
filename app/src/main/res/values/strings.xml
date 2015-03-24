@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">God\'s Home</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_font_size">字号</string>
+    <string name="exit">退出</string>
+    <string name="title_activity_book_list_page">BookListPage</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+</resources>
